@@ -1,2 +1,6 @@
 # Adam T. Darr
- My atemps at code
+# let "myArary" = {A};
+# let {A} = "cards"
+
+
+
