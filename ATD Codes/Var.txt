@@ -1,3 +1,8 @@
-Let {52}= "cards" = {A}
+<script>
+<funcion> {ginRummy} = {52}
+<variable> {A} + {52}
+<myString> + "ginRummy;
+<variable> {52} = "cards" ={A}
+
 
 
