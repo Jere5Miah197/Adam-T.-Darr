@@ -1,11 +1,9 @@
-let  {X} = {personDealer};
-let {A} = {cardsGinRummy};
-let {Y} = {table};
-let {cardsGinRummy} = {game};
-let app = {Adamapp};
-{Adamapp} + {cardsGinRummy}; 
-mobile (user) (Adamapp); 
-(X)  (artificialInteligence) = {personDealer};
-{personDealer} (nameAmyIteligence);
-{Amy}   {personDealer} UserActivation.name;
-{nameAmyIteligence} is (mobile);
+{X}  {personDealer}
+{A} {cardsGinRummy}
+{Y}  {table} {cardsGinRummy}  {game}app = {Adamapp}
+{Adamapp} + {cardsGinRummy}
+mobile (user) (Adamapp) 
+(X)  (artificialInteligence) = {personDealer}
+{personDealer} (nameAmyIteligence)
+mobile (nameAmyIteligence)
+{nameAmyIteligence} is (mobile)
